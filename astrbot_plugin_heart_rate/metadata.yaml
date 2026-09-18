@@ -1,8 +1,0 @@
-name: astrbot_plugin_heart_rate
-display_name: 心率监测
-desc: 通过蓝牙低功耗（BLE）收取标准心率设备（心率带/手环）的心率数据，支持 GATT 连接通知与广播被动接收两种模式，并可在心率超过设定阈值时主动向已绑定的会话发送问候消息。
-short_desc: 蓝牙心率监测与阈值主动问候
-version: v1.0.0
-author: baiye
-repo: ""
-astrbot_version: ">=4.16.0"
